@@ -21,5 +21,5 @@
 **Project and Reference Designs**
 
 **Tools**
-- [**IDE-SDK**](https://telinkgithub.github.io/App-Specific/ "ESL") →
+- [**IDE-SDK**](https://telinkgithub.github.io/IDE-SDK/ "ID-SDK") →
 - [**Testing-Debugging**](https://telinkgithub.github.io/App-Specific/ "Mesh") →
