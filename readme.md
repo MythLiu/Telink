@@ -11,7 +11,7 @@
 - [**ESL**](https://telinkgithub.github.io/ESL-System-Quick-Start/ "ESL") →
 - [**Mesh**](https://telinkgithub.github.io/Mesh/ "Mesh") →
 - [**Mouse**](https://telinkgithub.github.io/Mouse/ "Mouse") →
-- [**PC**](https://telinkgithub.github.io/App-Specific/ "PC") →
+- [**PC**](https://telinkgithub.github.io/PC/ "PC") →
 
 **Hardware for development**
 - [**DevKits**](https://telinkgithub.github.io/App-Specific/ "ESL") →
