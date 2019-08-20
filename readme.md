@@ -26,7 +26,7 @@
 **Tools/Software for development**
 - [IDE-SDK](https://telinkgithub.github.io/IDE-SDK/ "ID-SDK") 
 - [Testing-Debugging](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") 
-- [Production/Manufacturing](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") 
+- [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") 
 
 **Resources**
 - [Datasheet and Product Briefs](https://telinkgithub.github.io/ESL-System-Quick-Start/ "ESL") →
