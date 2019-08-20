@@ -6,7 +6,7 @@
 - [**TLSR826x Family**](https://telinkgithub.github.io/TLSR826x-Family/ "TLSR826x") →
 - [**TLSR823x Family**](https://telinkgithub.github.io/TLSR823x-Family/ "TLSR823x") →
 
-**App Specific**
+**Application/Solution Specific**
 - [**ESL**](https://telinkgithub.github.io/ESL-System-Quick-Start/ "ESL") →
 - [**Mesh**](https://telinkgithub.github.io/Mesh/ "Mesh") →
 - [**Mouse**](https://telinkgithub.github.io/Mouse/ "Mouse") →
@@ -17,8 +17,19 @@
 - [**Dongle**](https://telinkgithub.github.io/Dongle/ "Dongle") →
 - [**Modules**](https://telinkgithub.github.io/Modules/ "Mouse") →
 
-**Project and Reference Designs**
+**Projects & Reference Designs**
+- [**TBC**](https://telinkgithub.github.io/DevKits/ "DevKits") →
+- [**TBC**](https://telinkgithub.github.io/Dongle/ "Dongle") →
+- [**TBC**](https://telinkgithub.github.io/Modules/ "Mouse") →
+- [**TBC**](https://telinkgithub.github.io/Modules/ "Mouse") →
 
-**Tools**
+**Tools/Software for development**
 - [**IDE-SDK**](https://telinkgithub.github.io/IDE-SDK/ "ID-SDK") →
 - [**Testing-Debugging**](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") →
+- [**Production/Manufacturing**](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") →
+
+**Resources**
+- [**ESL**](https://telinkgithub.github.io/ESL-System-Quick-Start/ "ESL") →
+- [**Mesh**](https://telinkgithub.github.io/Mesh/ "Mesh") →
+- [**Mouse**](https://telinkgithub.github.io/Mouse/ "Mouse") →
+- [**PC**](https://telinkgithub.github.io/PC/ "PC") →
