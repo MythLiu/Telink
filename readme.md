@@ -8,9 +8,9 @@
 
 **Application/Solution Specific**
 - [ESL](https://telinkgithub.github.io/ESL/ "ESL") 
-- [Mesh](https://telinkgithub.github.io/Application-Specific/ "Mesh") 
-- [Mouse](https://telinkgithub.github.io/Application-Specific/ "Mouse") 
-- [PC](https://telinkgithub.github.io/Application-Specific/ "PC") 
+- [Mesh](https://telinkgithub.github.io/Mesh/ "Mesh") 
+- [Mouse](https://telinkgithub.github.io/Mouse/ "Mouse") 
+- [PC](https://telinkgithub.github.io/PC/ "PC") 
 
 **Hardware for development**
 - [DevKits](https://telinkgithub.github.io/DevKits/ "DevKits") 
