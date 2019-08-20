@@ -16,7 +16,7 @@
 **Hardware for development**
 - [**DevKits**](https://telinkgithub.github.io/DevKits/ "DevKits") →
 - [**Dongle**](https://telinkgithub.github.io/Dongle/ "Dongle") →
-- [**Modules**](https://telinkgithub.github.io/App-Specific/ "Mouse") →
+- [**Modules**](https://telinkgithub.github.io/Modules/ "Mouse") →
 
 **Project and Reference Designs**
 
