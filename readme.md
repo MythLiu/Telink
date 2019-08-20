@@ -7,7 +7,7 @@
 - [TLSR823x Family](https://telinkgithub.github.io/TLSR823x-Family/ "TLSR823x") →
 
 **Application/Solution Specific**
-- [ESL](https://telinkgithub.github.io/Application-Specific/ "ESL") 
+- [ESL](https://telinkgithub.github.io/ESL/ "ESL") 
 - [Mesh](https://telinkgithub.github.io/Application-Specific/ "Mesh") 
 - [Mouse](https://telinkgithub.github.io/Application-Specific/ "Mouse") 
 - [PC](https://telinkgithub.github.io/Application-Specific/ "PC") 
