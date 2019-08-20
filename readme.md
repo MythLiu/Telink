@@ -22,4 +22,4 @@
 
 **Tools**
 - [**IDE-SDK**](https://telinkgithub.github.io/IDE-SDK/ "ID-SDK") →
-- [**Testing-Debugging**](https://telinkgithub.github.io/App-Specific/ "Mesh") →
+- [**Testing-Debugging**](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") →
