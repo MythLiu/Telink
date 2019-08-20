@@ -29,7 +29,8 @@
 - [**Production/Manufacturing**](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") →
 
 **Resources**
-- [**ESL**](https://telinkgithub.github.io/ESL-System-Quick-Start/ "ESL") →
-- [**Mesh**](https://telinkgithub.github.io/Mesh/ "Mesh") →
-- [**Mouse**](https://telinkgithub.github.io/Mouse/ "Mouse") →
-- [**PC**](https://telinkgithub.github.io/PC/ "PC") →
+- [**Datasheet and Product Briefs**](https://telinkgithub.github.io/ESL-System-Quick-Start/ "ESL") →
+- [**Application notes**](https://telinkgithub.github.io/Mesh/ "Mesh") →
+- [**Schematics**](https://telinkgithub.github.io/Mouse/ "Mouse") →
+- [**Youtube Links**](https://telinkgithub.github.io/PC/ "PC") →
+- [**Get Training**](https://telinkgithub.github.io/PC/ "PC") →
