@@ -14,7 +14,7 @@
 - [**PC**](https://telinkgithub.github.io/PC/ "PC") →
 
 **Hardware for development**
-- [**DevKits**](https://telinkgithub.github.io/App-Specific/ "ESL") →
+- [**DevKits**](https://telinkgithub.github.io/DevKits/ "DevKits") →
 - [**Dongle**](https://telinkgithub.github.io/App-Specific/ "Mesh") →
 - [**Modules**](https://telinkgithub.github.io/App-Specific/ "Mouse") →
 
