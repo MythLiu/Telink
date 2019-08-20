@@ -14,7 +14,12 @@
 - [**PC**](https://telinkgithub.github.io/App-Specific/ "PC") →
 
 **Hardware for development**
-- [**ESL**](https://telinkgithub.github.io/App-Specific/ "ESL") →
-- [**Mesh**](https://telinkgithub.github.io/App-Specific/ "Mesh") →
-- [**Mouse**](https://telinkgithub.github.io/App-Specific/ "Mouse") →
-- [**PC**](https://telinkgithub.github.io/App-Specific/ "PC") →
+- [**DevKits**](https://telinkgithub.github.io/App-Specific/ "ESL") →
+- [**Dongle**](https://telinkgithub.github.io/App-Specific/ "Mesh") →
+- [**Modules**](https://telinkgithub.github.io/App-Specific/ "Mouse") →
+
+**Project and Reference Designs**
+
+**Tools**
+- [**IDE-SDK**](https://telinkgithub.github.io/App-Specific/ "ESL") →
+- [**Testing-Debugging**](https://telinkgithub.github.io/App-Specific/ "Mesh") →
