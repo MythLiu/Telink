@@ -3,7 +3,7 @@
 
 [**TLSR8x5x Family**](https://telinkgithub.github.io/TLSR8x5x/ "TLSR8x5x") →
 
-[**TLSR826x Family**](https://telinkgithub.github.io/TLSR826x-family/ "TLSR826x") →
+[**TLSR826x Family**](https://telinkgithub.github.io/TLSR826x-Family/ "TLSR826x") →
 
 [**TLSR823x Family**](https://telinkgithub.github.io/TLSR823x/ "TLSR823x") →
 
