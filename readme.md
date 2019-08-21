@@ -31,7 +31,7 @@
 
 **Resources**
 - [Datasheet and Product Briefs](https://telinkgithub.github.io/item-4/ "ESL") →
-- [Application notes](https://telinkgithub.github.io/item-4/ "Mesh") →
+- [Application Notes](https://telinkgithub.github.io/item-4/ "Mesh") →
 - [Schematics](https://telinkgithub.github.io/item-4/ "Mouse") →
-- [Youtube Links](https://telinkgithub.github.io/item-4/ "PC") →
+- [YouTube Links](https://telinkgithub.github.io/item-4/ "PC") →
 - [Get Training](https://telinkgithub.github.io/item-4/ "PC") →
