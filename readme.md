@@ -7,7 +7,7 @@
 - [TLSR823x Family](https://telinkgithub.github.io/TLSR823x-Family/ "TLSR823x") →
 - [2.4G-SoC-Family](https://telinkgithub.github.io/2.4G-SoC-Family/ "2.4G-SoC") →
 
-**Hardware for development**
+**Hardware for Development**
 - [DevKits](https://telinkgithub.github.io/DevKits/ "DevKits") 
 - [Dongle](https://telinkgithub.github.io/Dongle/ "Dongle") 
 - [Modules](https://telinkgithub.github.io/Modules/ "Mouse") 
@@ -18,7 +18,7 @@
 - [Mouse](https://telinkgithub.github.io/Mouse/ "Mouse") 
 - [PC](https://telinkgithub.github.io/PC/ "PC") 
 
-**Tools/Software for development**
+**Tools/Software for Development**
 - [IDE-SDK](https://telinkgithub.github.io/IDE-SDK/ "ID-SDK") 
 - [Testing-Debugging](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") 
 - [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") 
