@@ -5,6 +5,8 @@
 - [TLSR8x5x Family](https://telinkgithub.github.io/TLSR8x5x-Family/ "TLSR8x5x") →
 - [TLSR826x Family](https://telinkgithub.github.io/TLSR826x-Family/ "TLSR826x") →
 - [TLSR823x Family](https://telinkgithub.github.io/TLSR823x-Family/ "TLSR823x") →
+- [2.4G-SoC-Family](https://telinkgithub.github.io/2.4G-SoC-Family/ "2.4G-SoC") →
+
 
 **Application/Solution Specific**
 - [ESL](https://telinkgithub.github.io/ESL/ "ESL") 
