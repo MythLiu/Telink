@@ -19,8 +19,8 @@
 - [PC](https://telinkgithub.github.io/PC/ "PC") 
 
 **Tools/Software for Development**
-- [IDE-SDK](https://telinkgithub.github.io/IDE-SDK/ "ID-SDK") 
-- [Testing-Debugging](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") 
+- [IDE + SDKs](https://telinkgithub.github.io/IDE-SDK/ "ID-SDK") 
+- [Testing + Debugging](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") 
 - [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") 
 
 **Projects & Reference Designs**
