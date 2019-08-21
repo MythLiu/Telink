@@ -9,7 +9,7 @@
 
 **Hardware for Development**
 - [DevKits](https://telinkgithub.github.io/DevKits/ "DevKits") 
-- [Dongle](https://telinkgithub.github.io/Dongle/ "Dongle") 
+- [Dongles](https://telinkgithub.github.io/Dongles/ "Dongles") 
 - [Modules](https://telinkgithub.github.io/Modules/ "Mouse") 
 
 **Application/Solution Specific**
