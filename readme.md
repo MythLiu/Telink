@@ -23,12 +23,6 @@
 - [Testing + Debugging](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") 
 - [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") 
 
-**Projects & Reference Designs**
-- [TBC](https://telinkgithub.github.io/DevKits/ "DevKits") 
-- [TBC](https://telinkgithub.github.io/Dongle/ "Dongle") 
-- [TBC](https://telinkgithub.github.io/Modules/ "Mouse") 
-- [TBC](https://telinkgithub.github.io/Modules/ "Mouse") 
-
 **Resources**
 - [Datasheet and Product Briefs](https://telinkgithub.github.io/item-4/ "ESL") →
 - [Application Notes](https://telinkgithub.github.io/item-4/ "Mesh") →
