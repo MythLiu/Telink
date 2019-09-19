@@ -22,8 +22,8 @@
 - [Reference Design](https://telinkgithub.github.io/PC/ "Reference Design")
 
 **Tools/Software for Development**
-- [IDE](https://telinkgithub.github.io/IDE-SDK/ "IDE-SDK") 
-- [Programming + Debugging](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") 
+- [IDE](http://wiki.telink-semi.cn/dokuwiki/doku.php?id=menu:tools:ide_quick_start "IDE-SDK") 
+- [Programming + Debugging](http://wiki.telink-semi.cn/dokuwiki/doku.php?id=menu:tools:telink_bdt "Testing-Debugging") 
 - [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") 
 
 **Resources**
