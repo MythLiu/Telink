@@ -19,7 +19,7 @@
 - [Mesh](https://telinkgithub.github.io/Mesh/ "Mesh") 
 - [Mouse](https://telinkgithub.github.io/Mouse/ "Mouse") 
 - [PC](https://telinkgithub.github.io/PC/ "PC") 
-- [Reference Design](https://telinkgithub.github.io/PC/ "Reference Design")
+- [Reference Design](https://telinkgithub.github.io/Reference-design/ "Reference Design")
 
 **Tools/Software for Development**
 - [IDE](http://wiki.telink-semi.cn/dokuwiki/doku.php?id=menu:tools:ide_quick_start "IDE-SDK") 
