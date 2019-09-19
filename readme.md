@@ -23,7 +23,7 @@
 
 **Tools/Software for Development**
 - [IDE](http://wiki.telink-semi.cn/dokuwiki/doku.php?id=menu:tools:ide_quick_start "IDE-SDK") 
-- [Programming + Debugging](http://wiki.telink-semi.cn/dokuwiki/doku.php?id=menu:tools:telink_bdt "Testing-Debugging") 
+- [Programming + Debugging](https://telinkgithub.github.io/Programming-Debugging/ "Programming-Debugging") 
 - [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") → 
 
 **Resources**
