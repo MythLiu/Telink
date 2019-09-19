@@ -20,7 +20,7 @@
 
 **Tools/Software for Development**
 - [IDE](https://telinkgithub.github.io/IDE-SDK/ "IDE-SDK") 
-- [Testing + Debugging](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") 
+- [Programming + Debugging](https://telinkgithub.github.io/Testing-Debugging/ "Testing-Debugging") 
 - [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") 
 
 **Resources**
