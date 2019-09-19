@@ -27,8 +27,6 @@
 - [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") 
 
 **Resources**
-- [Datasheet and Product Briefs](https://telinkgithub.github.io/item-4/ "ESL") →
+- [Product Briefs](https://telinkgithub.github.io/item-4/ "ESL") →
 - [Application Notes](https://telinkgithub.github.io/item-4/ "Mesh") →
-- [Schematics](https://telinkgithub.github.io/item-4/ "Mouse") →
-- [YouTube Links](https://telinkgithub.github.io/item-4/ "PC") →
-- [Get Training](https://telinkgithub.github.io/item-4/ "PC") →
+
