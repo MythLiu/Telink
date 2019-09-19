@@ -11,7 +11,7 @@
 - [DevKits](https://telinkgithub.github.io/DevKits/ "DevKits") 
 - [Dongles](https://telinkgithub.github.io/Dongles/ "Dongles") 
 - [Modules](https://telinkgithub.github.io/Modules/ "Mouse")
-- [TLSR8x5x Family Boards](http://wiki.telink-semi.cn/dokuwiki/doku.php?id=menu:hardware:generic_boards "TLSR8x5x Family Boards") →
+- [TLSR8x5x Family Boards](https://telinkgithub.github.io/TLSR8x5x-Family-Boards/ "TLSR8x5x Family Boards") →
 - [TLSR823x Family Boards](http://wiki.telink-semi.cn/dokuwiki/doku.php?id=menu:hardware:tlsr8232_boards "TLSR823x Family Boards") →
 
 **Application/Solution Specific**
