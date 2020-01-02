@@ -22,7 +22,3 @@
 - [Programming + Debugging](https://telinkgithub.github.io/Programming-Debugging/ "Programming-Debugging") 
 - [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") 
 
-**Resources**
-- [Product Briefs](https://telinkgithub.github.io/item-4/ "ESL") 
-- [Application Notes](https://telinkgithub.github.io/item-4/ "Mesh") 
-
