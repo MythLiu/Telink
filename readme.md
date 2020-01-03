@@ -8,17 +8,17 @@
 - [TLSR827x & TLSR8355 Series](https://telinkgithub.github.io/TLSR827x-TLSR8355-Series/) 
 
 **Hardware for Development**
-- [TLSR8x5x Family Boards](https://telinkgithub.github.io/TLSR8x5x-Family-Boards/ "TLSR8x5x Family Boards")
-- [TLSR823x Family Boards](https://telinkgithub.github.io/TLSR8232-Family-Boards/ "TLSR823x Family Boards")
+- [TLSR8x5x Family Boards](https://telinkgithub.github.io/TLSR8x5x-Family-Boards/)
+- [TLSR823x Family Boards](https://telinkgithub.github.io/TLSR823x-Family-Boards/)
 
 **Application/Solution Specific**
-- [ESL](https://telinkgithub.github.io/ESL/ "ESL") 
-- [Mesh](https://telinkgithub.github.io/Mesh/ "Mesh")
-- [RCU](https://telinkgithub.github.io/RCU/ "RCU") 
-- [Reference Design](https://telinkgithub.github.io/Reference-design/ "Reference Design")
+- [ESL](https://telinkgithub.github.io/ESL/) 
+- [Mesh](https://telinkgithub.github.io/Mesh/)
+- [RCU](https://telinkgithub.github.io/RCU/) 
+- [Reference Design](https://telinkgithub.github.io/Reference-design/)
 
 **Tools/Software for Development**
-- [IDE](https://telinkgithub.github.io/IDE/ "IDE-SDK") 
-- [Programming + Debugging](https://telinkgithub.github.io/Programming-Debugging/ "Programming-Debugging") 
-- [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/ "Testing-Debugging") 
+- [IDE](https://telinkgithub.github.io/IDE/) 
+- [Programming + Debugging](https://telinkgithub.github.io/Programming-Debugging/) 
+- [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/) 
 
