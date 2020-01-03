@@ -19,6 +19,6 @@
 
 **Tools/Software for Development**
 - [IDE](https://telinkgithub.github.io/IDE/) 
-- [Programming + Debugging](https://telinkgithub.github.io/Programming-Debugging/) 
+- [Programming + Debugging](https://telinkgithub.github.io/Programming-and-Debugging/) 
 - [Production/Manufacturing](https://telinkgithub.github.io/Production-Manufacturing/) 
 
