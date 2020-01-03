@@ -2,10 +2,10 @@
 ![header-telink]({{site.baseurl}}/big-header.jpg)
 
 **Products**
-- [TLSR8x5x Family](https://telinkgithub.github.io/TLSR8x5x-Family/ "TLSR8x5x") 
-- [TLSR826x Family](https://telinkgithub.github.io/TLSR826x-Family/ "TLSR826x") 
-- [TLSR823x Family](https://telinkgithub.github.io/TLSR823x-Family/ "TLSR823x") 
-- [2.4G-SoC-Family](https://telinkgithub.github.io/2.4G-SoC-Family/ "2.4G-SoC") 
+- [TLSR8x5x Family](https://telinkgithub.github.io/TLSR8x5x-Family/) 
+- [TLSR823x & TLSR836x Series](https://telinkgithub.github.io/TLSR823x-TLSR836x-Series/) 
+- [TLSR826x Family](https://telinkgithub.github.io/TLSR826x-Family/) 
+- [TLSR827x & TLSR8355 Series](https://telinkgithub.github.io/TLSR827x-TLSR8355-Series/) 
 
 **Hardware for Development**
 - [TLSR8x5x Family Boards](https://telinkgithub.github.io/TLSR8x5x-Family-Boards/ "TLSR8x5x Family Boards")
