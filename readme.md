@@ -1,5 +1,5 @@
 
-![header-telink]({{site.baseurl}}/big-header.jpg)
+![header-telink](https://telinkgithub.github.io/Assets/General/big-header.jpg)
 
 **Products**
 - [TLSR8x5x Family](https://telinkgithub.github.io/TLSR8x5x-Family/) 
